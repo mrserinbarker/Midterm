@@ -1,4 +1,0 @@
-// LUIS JIMENEZ
-
-#include <iostream>
-
